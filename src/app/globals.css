@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 
-/* html {
-  scroll-behavior: smooth !important;
-} */
+html {
+  scroll-behavior: smooth;
+}
 
 @layer components {
   .max-container {

@@ -44,7 +44,7 @@ export const CurrencySection = () => {
         {/* CARDS */}
         {currencies.map((item, index) => {
           // destructure item
-          const { image, name, abbr, description } = item;
+          const { image, name, abbr } = item;
           return (
             <div
               onClick={() => setItemName(name)}

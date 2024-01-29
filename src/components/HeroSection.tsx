@@ -91,7 +91,7 @@ const HeroSection = () => {
                   Crear cuenta
                 </Link> */}
                 <Link href={"#"}>
-                  Crear cuenta
+                  Crear cuenta !!
                 </Link>
               </motion.button>
             </div>
